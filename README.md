@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any project
-- 📫 Reach me on linkedin www.linkedin.com/in/syifa-fatmawati-862b92153
+- 📫 Reach me on linkedin www.linkedin.com/in/syifafatmawati
 
 <!---
 syifafatma/syifafatma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
