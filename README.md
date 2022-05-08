@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syifafatma
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on any project
 - 📫 Reach me on linkedin www.linkedin.com/in/syifafatmawati
 
