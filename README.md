@@ -4,6 +4,17 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 Reach me on linkedin www.linkedin.com/in/syifafatmawati
 
+### Quick Access to My Project
+- Machine Learning & AI
+  - Indonesia Inflation Rate Prediction [Click here](https://github.com/C242-PS128/Inflation-Prediction)
+- Data Analysis
+  - Olist Store Dashboard [Click here](https://github.com/syifafatma/submission)
+- Optimization
+  - Solving N-Queens Problem using Backtracking and Simulates Annealing Algorithm [Click here](https://github.com/syifafatma/Solving-N-Queens-Problem-using-Backtracking-and-Simmulated-Annealing-Algorithm)
+  - Minimizing Distribution Costs of Shipping Food Packages from Agents to PMI Kota Bandung using Least Cost Method and Lindo Software [Click here](https://drive.google.com/file/d/1mPEuTsXhW9yI4eirz_jR0VD2_1IXdRDp/view)
+- Data Security
+  - Securing messages using LSB (Least Significant Bit) steganography method [Click here](https://github.com/syifafatma/Securing-messages-using-Fernet-Cryptography-Hash-MD5-and-LSB-Steganography)
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/syifafatma">
